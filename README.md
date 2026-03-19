@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**caiomiguelbecker/caiomiguelbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá! 👋 Caio Miguel Becker Abatte
+ 
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas (TDS) - Senac NH  
+💼 Jovem Aprendiz logística - Novo Hambugo, Ideal
+    macânico - Novo Hamburgo, canudos 
+🌱 Aprendendo: Java, Python, JavaScript, SQL, Git, GitHub    
+📫 Contato: Caiomiguelbecker@gmail.com
+ 
+## Sobre mim
+ 
+- Curso técnico em TDS no Senac Novo Hamburgo.
+- Experiência prática como Jovem Aprendiz na sirius logística (documentção dos caminhões, separção de produtos e conferencia de 
+mercadorias), (trabalho como mecânico na parte da manhã)
+- Foco em desenvolvimento de software, lógica e boas práticas.
+- Curioso e dedicado a resolver problemas com código.
+ 
+## Competências
+ 
+- Metodologias: SCRUM, Kanban (estudos)
+ 
+## Projetos principais
+ 
+ 
+## Objetivo
+ 
+Conquistar vaga de estagiário/desenvolvedor júnior e continuar a aprender boas práticas (Testes, Clean Code, Cloud).
+ 
+---
+ 
+🛠️ Sempre aberto a colaborar em projetos open source e trocar conhecimento com outros devs.
