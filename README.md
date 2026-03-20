@@ -20,7 +20,7 @@ mercadorias), (trabalho como mecânico na parte da manhã)
  
 ## Projetos principais
  
- 
+ ddd
 ## Objetivo
  
 Conquistar vaga de estagiário/desenvolvedor júnior e continuar a aprender boas práticas (Testes, Clean Code, Cloud).
