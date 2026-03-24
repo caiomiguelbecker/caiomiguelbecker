@@ -19,7 +19,7 @@ mercadorias), (trabalho como mecânico na parte da manhã)
 - Metodologias: SCRUM, Kanban (estudos)
  
 ## Projetos principais
- 
+ ![alt text](Untitled.jpg)
  
 ## Objetivo
  
