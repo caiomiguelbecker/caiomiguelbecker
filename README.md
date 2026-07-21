@@ -2,15 +2,15 @@
  
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas (TDS) - Senac NH  
 💼 Jovem Aprendiz logística - Novo Hambugo, Ideal
-    macânico - Novo Hamburgo, canudos 
-🌱 Aprendendo: Java, Python, JavaScript, SQL, Git, GitHub    
+🌱 já prendi: Planejamneto de software, MYSQL, lógica da programação.
+🌱 Estou aprendendo: python e inglês técnico. Além de habilidades de MVC e cuidados com segurança no codigo.
 📫 Contato: Caiomiguelbecker@gmail.com
  
 ## Sobre mim
  
 - Curso técnico em TDS no Senac Novo Hamburgo.
 - Experiência prática como Jovem Aprendiz na sirius logística (documentção dos caminhões, separção de produtos e conferencia de 
-mercadorias), (trabalho como mecânico na parte da manhã)
+mercadorias).
 - Foco em desenvolvimento de software, lógica e boas práticas.
 - Curioso e dedicado a resolver problemas com código.
  
