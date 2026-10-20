@@ -1,10 +1,10 @@
 # Olá! 👋 Caio Miguel Becker Abatte
  
-🎓 Estudante de Técnico em Desenvolvimento de Sistemas (TDS) - Senac NH  
-💼 Jovem Aprendiz logística - Novo Hambugo, Ideal
-🌱 já prendi: Planejamneto de software, MYSQL, lógica da programação.
-🌱 Estou aprendendo: python e inglês técnico. Além de habilidades de MVC e cuidados com segurança no codigo.
-📫 Contato: Caiomiguelbecker@gmail.com
+Estudante de Técnico em Desenvolvimento de Sistemas (TDS) - Senac NH  
+Jovem Aprendiz logística - Novo Hambugo, Ideal.
+já prendi: Planejamneto de software, MYSQL, lógica da programação.
+Estou aprendendo: python e inglês técnico. Além de habilidades de MVC e cuidados com segurança no codigo.
+Contato: Caiomiguelbecker@gmail.com
  
 ## Sobre mim
  
