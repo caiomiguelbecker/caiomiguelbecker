@@ -19,6 +19,10 @@ mercadorias).
 - Metodologias: SCRUM, Kanban (estudos)
  
 ## Projetos principais
+
+Este projeto foi feito em aula, o principal objetivo dele é conseguir gerir um consultório médico. Ele teve colaboração de um colega fui levado entorno de 30 horas para a conclusão, sendo o primeiro projeto do curso de TDS que tem 6 meses no momento da conclusão. 
+
+https://github.com/caiomiguelbecker/projeto-integrador-Consultorio_zeladoc
  
 ## Objetivo
  
@@ -26,4 +30,4 @@ Conquistar vaga de estagiário/desenvolvedor júnior e continuar a aprender boas
  
 ---
  
-🛠️ Sempre aberto a colaborar em projetos open source e trocar conhecimento com outros devs.
+Sempre aberto a colaborar em projetos open source e trocar conhecimento com outros devs.
